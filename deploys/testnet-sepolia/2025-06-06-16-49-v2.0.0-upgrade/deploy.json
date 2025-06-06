@@ -9,10 +9,24 @@
       "id": 0
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0x39CA5312eF96cBF09c43ea7F2eAd639c539BF613",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0x5415F93c5a15C32825bEf1A18AE427e672B59107",
+          "contract": "CounterV2_Impl",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v2.0.0-upgrade",
   "upgradePath": "script/releases/v2.0.0-upgrade",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 11155111,
   "startTime": "Fri Jun 06 2025 16:49:29 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1749242969.47
