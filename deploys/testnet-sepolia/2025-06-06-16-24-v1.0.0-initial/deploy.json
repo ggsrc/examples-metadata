@@ -9,10 +9,29 @@
       "id": 0
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0x39CA5312eF96cBF09c43ea7F2eAd639c539BF613",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0xab4471005352313496222C8Da27db8e9c7700c48",
+          "contract": "Counter_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xAE2Ac4973C3C3B09d59f6574FA17041cC0071Be0",
+          "contract": "Counter_Proxy",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v1.0.0-initial",
   "upgradePath": "script/releases/v1.0.0-initial",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 11155111,
   "startTime": "Fri Jun 06 2025 16:24:23 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1749241463.975

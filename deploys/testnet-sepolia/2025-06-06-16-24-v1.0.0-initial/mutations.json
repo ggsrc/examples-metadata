@@ -1,0 +1,19 @@
+{
+  "mutations": [
+    {
+      "next": "0xa5a3d15c7d9baD382fb5e89E2585112030F9e8a1",
+      "name": "PROXY_ADMIN",
+      "internalType": 4
+    },
+    {
+      "next": "0x39CA5312eF96cBF09c43ea7F2eAd639c539BF613",
+      "name": "DEPLOYER",
+      "internalType": 4
+    },
+    {
+      "next": "production",
+      "name": "ENVIRONMENT_TYPE",
+      "internalType": 5
+    }
+  ]
+}
