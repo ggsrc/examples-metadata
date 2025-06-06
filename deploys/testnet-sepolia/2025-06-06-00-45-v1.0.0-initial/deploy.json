@@ -1,0 +1,19 @@
+{
+  "name": "2025-06-06-00-45-v1.0.0-initial",
+  "env": "testnet-sepolia",
+  "segmentId": 0,
+  "segments": [
+    {
+      "type": "eoa",
+      "filename": "1-deploy.s.sol",
+      "id": 0
+    }
+  ],
+  "metadata": [],
+  "upgrade": "v1.0.0-initial",
+  "upgradePath": "script/releases/v1.0.0-initial",
+  "phase": "",
+  "chainId": 11155111,
+  "startTime": "Fri Jun 06 2025 00:45:30 GMT-0400 (Eastern Daylight Time)",
+  "startTimestamp": 1749185130.297
+}
