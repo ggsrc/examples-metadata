@@ -1,10 +1,35 @@
 {
   "id": "testnet-sepolia",
-  "deployedVersion": "0.0.0",
+  "deployedVersion": "1.0.0",
   "contracts": {
-    "static": {},
+    "static": {
+      "Counter_Impl": {
+        "address": "0xab4471005352313496222C8Da27db8e9c7700c48",
+        "contract": "Counter_Impl",
+        "singleton": true,
+        "deployedBytecodeHash": "0x17b127f7adafdb6e7b47ef5a96f481c768439ba449fb5b3d1619165dd31cecfc",
+        "lastUpdatedIn": {
+          "name": "2025-06-06-16-24-v1.0.0-initial",
+          "phase": "eoa_wait_confirm",
+          "segment": 0,
+          "signer": "0x39CA5312eF96cBF09c43ea7F2eAd639c539BF613"
+        }
+      },
+      "Counter_Proxy": {
+        "address": "0xAE2Ac4973C3C3B09d59f6574FA17041cC0071Be0",
+        "contract": "Counter_Proxy",
+        "singleton": true,
+        "deployedBytecodeHash": "0x17b127f7adafdb6e7b47ef5a96f481c768439ba449fb5b3d1619165dd31cecfc",
+        "lastUpdatedIn": {
+          "name": "2025-06-06-16-24-v1.0.0-initial",
+          "phase": "eoa_wait_confirm",
+          "segment": 0,
+          "signer": "0x39CA5312eF96cBF09c43ea7F2eAd639c539BF613"
+        }
+      }
+    },
     "instances": []
   },
-  "latestDeployedCommit": "",
+  "latestDeployedCommit": "c5b91dc13889ce325b93526df15d8694da1afd6b",
   "chainId": 11155111
 }
