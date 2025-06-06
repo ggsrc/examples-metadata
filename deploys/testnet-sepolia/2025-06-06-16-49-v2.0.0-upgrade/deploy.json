@@ -1,0 +1,19 @@
+{
+  "name": "2025-06-06-16-49-v2.0.0-upgrade",
+  "env": "testnet-sepolia",
+  "segmentId": 0,
+  "segments": [
+    {
+      "type": "eoa",
+      "filename": "1-upgrade.s.sol",
+      "id": 0
+    }
+  ],
+  "metadata": [],
+  "upgrade": "v2.0.0-upgrade",
+  "upgradePath": "script/releases/v2.0.0-upgrade",
+  "phase": "",
+  "chainId": 11155111,
+  "startTime": "Fri Jun 06 2025 16:49:29 GMT-0400 (Eastern Daylight Time)",
+  "startTimestamp": 1749242969.47
+}
