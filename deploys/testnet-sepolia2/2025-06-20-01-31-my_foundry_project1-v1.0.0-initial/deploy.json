@@ -9,10 +9,29 @@
       "id": 0
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0x1a6c5c00aC60fee35f2A199AA9A3E691b4e10480",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0x8E1CA00fFD9A1171ca8c586C59D4671F5192B4d9",
+          "contract": "Counter_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xF219a3faE9F4714886e9Ca4fDf97DA76ba1F7B33",
+          "contract": "Counter_Proxy",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "my_foundry_project1-v1.0.0-initial",
   "upgradePath": "script/releases/my_foundry_project1-v1.0.0-initial",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 11155111,
   "startTime": "Fri Jun 20 2025 01:31:14 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1750397474.067
