@@ -1,0 +1,12 @@
+{
+  "name": "initial-counter-deployment",
+  "from": "0.0.0",
+  "to": "1.0.0",
+  "phases": [
+    {
+      "type": "eoa",
+      "filename": "1-deploy.s.sol"
+    }
+  ],
+  "commit": "c2680939eba66708cdeea014d7d81f6c1f95e490"
+}
