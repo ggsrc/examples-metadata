@@ -1,0 +1,19 @@
+{
+  "name": "2025-06-20-01-31-my_foundry_project1-v1.0.0-initial",
+  "env": "testnet-sepolia2",
+  "segmentId": 0,
+  "segments": [
+    {
+      "type": "eoa",
+      "filename": "1-deploy.s.sol",
+      "id": 0
+    }
+  ],
+  "metadata": [],
+  "upgrade": "my_foundry_project1-v1.0.0-initial",
+  "upgradePath": "script/releases/my_foundry_project1-v1.0.0-initial",
+  "phase": "",
+  "chainId": 11155111,
+  "startTime": "Fri Jun 20 2025 01:31:14 GMT-0400 (Eastern Daylight Time)",
+  "startTimestamp": 1750397474.067
+}
