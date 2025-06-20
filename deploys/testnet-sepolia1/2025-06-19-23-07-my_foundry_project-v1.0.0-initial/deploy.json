@@ -12,7 +12,7 @@
   "metadata": [],
   "upgrade": "my_foundry_project-v1.0.0-initial",
   "upgradePath": "script/releases/my_foundry_project-v1.0.0-initial",
-  "phase": "",
+  "phase": "eoa_start",
   "chainId": 11155111,
   "startTime": "Thu Jun 19 2025 23:07:50 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1750388870.466
