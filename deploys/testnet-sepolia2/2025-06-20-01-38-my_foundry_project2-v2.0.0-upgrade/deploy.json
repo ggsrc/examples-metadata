@@ -9,10 +9,24 @@
       "id": 0
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0x1a6c5c00aC60fee35f2A199AA9A3E691b4e10480",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0xfFA4C881E182f6b851f5C01a3D89eF1d4e5620Aa",
+          "contract": "CounterV2_Impl",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "my_foundry_project2-v2.0.0-upgrade",
   "upgradePath": "script/releases/my_foundry_project2-v2.0.0-upgrade",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 11155111,
   "startTime": "Fri Jun 20 2025 01:38:15 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1750397895.949

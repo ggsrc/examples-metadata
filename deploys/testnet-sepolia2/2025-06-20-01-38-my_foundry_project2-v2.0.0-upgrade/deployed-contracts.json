@@ -1,0 +1,16 @@
+{
+  "contracts": [
+    {
+      "address": "0xfFA4C881E182f6b851f5C01a3D89eF1d4e5620Aa",
+      "contract": "CounterV2_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xff2071ed51849cf0afb288bb6dc9db7c1b295c71bf9a75220d2bfef262698d7f",
+      "lastUpdatedIn": {
+        "name": "2025-06-20-01-38-my_foundry_project2-v2.0.0-upgrade",
+        "phase": "eoa_wait_confirm",
+        "segment": 0,
+        "signer": "0x1a6c5c00aC60fee35f2A199AA9A3E691b4e10480"
+      }
+    }
+  ]
+}
