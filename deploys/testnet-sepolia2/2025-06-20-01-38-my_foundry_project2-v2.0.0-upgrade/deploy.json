@@ -21,12 +21,12 @@
           "singleton": true
         }
       ],
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "my_foundry_project2-v2.0.0-upgrade",
   "upgradePath": "script/releases/my_foundry_project2-v2.0.0-upgrade",
-  "phase": "eoa_wait_confirm",
+  "phase": "complete",
   "chainId": 11155111,
   "startTime": "Fri Jun 20 2025 01:38:15 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1750397895.949
